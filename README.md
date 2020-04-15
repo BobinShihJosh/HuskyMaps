@@ -1,16 +1,9 @@
-# CSE 373 Homework
+# HuskyMaps Server 
 
-You'll use this Git repository for all homework assignments in this class.
+A GoogleMaps-like web application with Point-of-Interest Search, Shortest path finder, and turn-by-turn navigation directions. 
 
-This project is meant to be imported into IntelliJ as a Gradle project.
+## Tools
 
-You are not expected to understand the contents of any Gradle-related files, 
-and may safely ignore them---if you encounter issues with project setup, please
-seek help from the course staff.
+Fundamental algorithms and data structures for implementation. Techniques for solving problems by programming. Linked lists, stacks, queues, directed graphs. Trees: representations, traversals. Searching (hashing, binary search trees, multiway trees). Garbage collection, memory management. Internal and external sorting. 
 
-See [the homework page on the course website](https://cs.uw.edu/373/homework/)
-for more instructions.
-
-(In theory, it should be possible to complete our projects using the Gradle 
-support in any other IDE or by using Gradle without an IDE, but the course 
-staff may not be able to provide technical support if you do so.)
+![GitHub Logo](/images/logo.png)
