@@ -1,0 +1,11 @@
+
+sourceSets.main.studentJava.files = [
+    'seamcarving/DualGradientEnergyFunction.java',
+    'seamcarving/AStarSeamFinder.java',
+]
+
+allprojects {
+    dependencies {
+        implementation project(':astar')
+    }
+}
