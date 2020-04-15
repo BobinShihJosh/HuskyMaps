@@ -1,7 +1,9 @@
 # HuskyMaps Server 
 A GoogleMaps-like web application with Point-of-Interest Search, Shortest path finder, and turn-by-turn navigation directions. 
-
+[GitHub](https://huskymaps-joshshih.herokuapp.com/)
 ![map](map.png)
+
+
 
 ## Tools
 
