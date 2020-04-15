@@ -1,8 +1,7 @@
+![map](map.png)
 # HuskyMaps Server 
 
 A GoogleMaps-like web application with Point-of-Interest Search, Shortest path finder, and turn-by-turn navigation directions. 
-
-![map](map.png)
 
 ## Tools
 
